@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+Shigoto is a managed Kubernetes service that lets you deploy, monitor and manage your containers via an intuitive web interface.
+With Shigoto, you don't need to worry about operating servers or clusters.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+Deploying and managing your cluster is as easy as clicking a button.
+
+Also, shigoto is a task and workflow management that simplifies development, deployment, and monitoring tasks/cronjobs on kubernetes.
